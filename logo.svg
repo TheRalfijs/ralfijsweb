@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 150" role="img" aria-labelledby="title desc">
+  <title id="title">Ralfijs Web</title>
+  <desc id="desc">RV monogramma un vārdi Ralfijs Web</desc>
+
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#46E083"/>
+      <stop offset="100%" stop-color="#0794AA"/>
+    </linearGradient>
+
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22C7F4"/>
+      <stop offset="100%" stop-color="#1558CF"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0 10)">
+    <path
+      d="M8 6h89c35 0 57 18 57 48 0 23-13 39-35 45l39 39h-46L77 103H47v35H8V69h83c15 0 24-6 24-17 0-10-9-16-24-16H8z"
+      fill="#FFFFFF"
+    />
+
+    <path d="M127 7h34l35 84-24 47z" fill="url(#green)"/>
+    <path d="M164 7h39l-31 131h-31z" fill="#078EA6" opacity=".72"/>
+    <path d="M197 7h48l-48 131h-37z" fill="url(#blue)"/>
+  </g>
+
+  <text
+    x="275"
+    y="98"
+    fill="#FFFFFF"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="70"
+    font-weight="800"
+    letter-spacing="-2"
+  >Ralfijs</text>
+
+  <text
+    x="508"
+    y="98"
+    fill="#149BE8"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="70"
+    font-weight="500"
+    letter-spacing="-2"
+  >Web</text>
+</svg>
